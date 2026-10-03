@@ -10,9 +10,9 @@ One row per channel. Every channel has **one job** and **one owner role**. Names
 |---|---|---|---|---|---|
 | Website | https://bosque-escola-avelas.org | Who we are, how to join / visit / volunteer | PT · EN · ES | Learning Community comms | **Needs revision** — see below |
 | Facebook page | https://www.facebook.com/BosqueEscolaAvelas/ | Events, enrolment, news for the local area | PT | Learning Community comms | Active |
-| Instagram | https://www.instagram.com/bosque_escola_avelas/ | Daily life, learning, people | ? | Learning Community comms | ? |
+| Instagram | https://www.instagram.com/bosque_escola_avelas/ | Daily life, learning, people | PT · EN | Learning Community comms | **Needs revision** — see below |
 | Email | correiodobea@gmail.com | Incoming questions | — | ? | ? |
-| Youtube | https://www.youtube.com/@bosqueescolaavelas8450 | ? | ? | ? | ? |
+| Youtube | https://www.youtube.com/@bosqueescolaavelas8450 | Daily life, learning, people | PT · EN | Learning Community comms | **Needs revision** — see below |
 
 ## Descalças
 
