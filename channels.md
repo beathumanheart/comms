@@ -10,9 +10,9 @@ One row per channel. Every channel has **one job** and **one owner role**. Names
 |---|---|---|---|---|---|
 | Website | https://bosque-escola-avelas.org | Who we are, how to join / visit / volunteer | PT · EN · ES | Learning Community comms | **Needs revision** — see below |
 | Facebook page | https://www.facebook.com/BosqueEscolaAvelas/ | Events, enrolment, news for the local area | PT | Learning Community comms | Active |
-| Instagram | ? | Daily life, learning, people | ? | Learning Community comms | ? |
+| Instagram | https://www.instagram.com/bosque_escola_avelas/ | Daily life, learning, people | ? | Learning Community comms | ? |
 | Email | correiodobea@gmail.com | Incoming questions | — | ? | ? |
-| Newsletter / WhatsApp broadcast | ? | ? | ? | ? | ? |
+| Youtube | https://www.youtube.com/@bosqueescolaavelas8450 | ? | ? | ? | ? |
 
 ## Descalças
 
@@ -22,16 +22,14 @@ One row per channel. Every channel has **one job** and **one owner role**. Names
 | Enraizar no Interior page | https://descalcas.blogspot.com/p/enraizar-no-interior-criacao-de-postos.html | Mandatory publicity for the operation | Descalças comms | Up to date |
 | CES page | https://descalcas.blogspot.com/p/ces-corpo-europeu-de-solidariedade.html | Mandatory publicity for the volunteering project | Descalças comms | **Needs revision** — see below |
 | Email | descalcas@gmail.com | Institutional contact | Descalças comms | Active |
-| Social media | ? | ? | Descalças comms | ? |
+| Social media | https://www.facebook.com/descalcascooperativaintegral | ? | Descalças comms | ? |
 
 ## Planeta Alecrim (own channels, separately accountable)
 
 | Channel | Link | Notes |
 |---|---|---|
-| Website | https://planetaalecrim.com | |
 | Blog | http://planetaalecrim.blogspot.com | |
-| Facebook page | "Comunidade de aprendizagem Planeta Alecrim" | Link ? |
-| Email | planeta.alecrim@gmail.com | |
+| Email | ? | |
 
 ## Shared content system
 
