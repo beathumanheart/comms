@@ -12,8 +12,9 @@ have agreed on how our external communication is organised, and we would like to
 **1. The communication architecture** — see visuals & text attached.
 A general picture of how the Learning Community, Descalças and Planeta Alecrim communicate. It names roles, not people, so it stays valid when the team rotates.
 
-**2. Guidelines and owners for this season** — [link]
-One page of rules, plus whom to talk to in 2026/27.
+**2. Guidelines and owners for this season** 
+One page of rules - https://beathumanheart.github.io/comms/guidelines.html, 
+plus whom to talk to in 2026/27 - https://beathumanheart.github.io/comms/seasons/2026-27/owners.html
 
 **Why we communicate externally**
 1. To connect with similar projects
