@@ -9,7 +9,7 @@ Hello everyone — the external comms team here - Eugenia and Yanna.
 We (Edgar, Sara, Eugenia & Yanna) 
 have agreed on how our external communication is organised, and we would like to share it with you.
 
-**1. The communication architecture** — see visuals & text attached.
+**1. The communication architecture** — see visuals & text via [this link](https://beathumanheart.github.io/comms/architecture/index.html).
 A general picture of how the Learning Community, Descalças and Planeta Alecrim communicate. It names roles, not people, so it stays valid when the team rotates.
 
 **2. Guidelines and owners for this season** 
