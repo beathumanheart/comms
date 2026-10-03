@@ -1,14 +1,15 @@
 # Announcement to the community — draft
 
-Ready to paste into the group chat or email. Replace `[link]` with the address of this space once it exists.
+Ready to paste into the group chat or email.
 
 ---
 
-Hello everyone — the external comms team here (Sara, Eugenia and Yanna).
+Hello everyone — the external comms team here - Eugenia and Yanna.
 
-We have agreed on how our external communication is organised, and we would like to share it with you.
+We (Edgar, Sara, Eugenia & Yanna) 
+have agreed on how our external communication is organised, and we would like to share it with you.
 
-**1. The communication architecture** — [link]
+**1. The communication architecture** — see visuals & text attached.
 A general picture of how the Learning Community, Descalças and Planeta Alecrim communicate. It names roles, not people, so it stays valid when the team rotates.
 
 **2. Guidelines and owners for this season** — [link]
@@ -30,6 +31,6 @@ If you are about to communicate with the outside world on behalf of Descalças o
 
 **What happens next, unless there are major disagreements**
 1. We revise our current channels, starting with the Learning Community website, including what our funders require us to show.
-2. We start a content calendar for October and November. We may ask some of you for photos or a few facts about activities you are closest to.
+2. We start a content calendar for November and December. We may ask some of you for photos or a few facts about activities you are closest to.
 
-Questions or objections: reply here or talk to any of us by [date].
+Questions or objections: reply here or talk to any of us by the end of October.
