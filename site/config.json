@@ -1,0 +1,43 @@
+{
+  "site_name": "Comms handbook",
+  "site_tagline": "Learning Community · Descalças",
+  "season": "2026-27",
+  "timezone": "Europe/Lisbon",
+
+  "repository": "",
+  "branch": "main",
+  "hide_from_search_engines": true,
+
+  "fallback_name": "the comms team",
+  "names": {
+    "github-username": "Name to show instead"
+  },
+
+  "notice": "Draft for team review. Nothing here is final until the team agrees.",
+
+  "nav": [
+    { "label": "Home", "page": "" },
+    { "label": "The rules", "page": "guidelines.md" },
+    { "label": "Who to ask", "page": "seasons/{season}/owners.md" },
+    { "label": "Calendar", "page": "calendar/README.md" },
+    { "label": "Our channels", "page": "channels.md" },
+    { "label": "Funded projects", "page": "funded-projects/README.md" },
+    { "label": "How-to", "page": "how-to/README.md" },
+    { "label": "How it fits together", "page": "architecture/README.md" },
+    { "label": "Next steps", "page": "seasons/{season}/next-steps.md" }
+  ],
+
+  "home": {
+    "title": "External comms, in one place",
+    "intro": "The working handbook of the comms team for the Learning Community (Bosque Escola Avelãs + Planeta Alecrim) and Descalças. Everyone on the team can read it and change it.",
+    "signs_title": "What do you need?",
+    "signs": [
+      { "label": "Read the rules", "note": "One page, two minutes", "page": "guidelines.md" },
+      { "label": "Find who to ask", "note": "Owners for this season", "page": "seasons/{season}/owners.md" },
+      { "label": "See what is planned", "note": "The content calendar, month by month", "page": "calendar/README.md" },
+      { "label": "Publish a post", "note": "The checklist before, during and after", "page": "how-to/publish-a-post.md" },
+      { "label": "Post about CES or Enraizar", "note": "Logos and wording are mandatory", "page": "funded-projects/README.md" },
+      { "label": "Change something here", "note": "Edit a page in your browser", "page": "how-to/edit-a-page.md" }
+    ]
+  }
+}

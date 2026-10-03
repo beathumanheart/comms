@@ -1,0 +1,47 @@
+# Rebuilds and publishes the website every time a page is changed.
+# Nobody needs to run this by hand: saving a page ("Commit changes") starts it.
+name: Publish the site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the pages, with their full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # needed for "Last updated … by …"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the Markdown converter
+        run: pip install -r site/requirements.txt
+      - name: Build the website
+        run: python site/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

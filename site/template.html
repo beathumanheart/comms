@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{title_tag}}</title>
+{{robots}}
+<link rel="stylesheet" href="{{root}}assets/site.css">
+<script src="{{root}}assets/site.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#content">Skip to the page</a>
+<div class="shell">
+  <div class="side">
+    <a class="brand" href="{{root}}index.html">
+      <span class="waymark" aria-hidden="true"><i></i><i></i></span>
+      <span class="brand-text"><b>{{site_name}}</b><span>{{site_tagline}}</span></span>
+    </a>
+    <input class="nav-toggle" type="checkbox" id="nav-toggle" aria-label="Show the menu">
+    <label class="nav-button" for="nav-toggle" aria-hidden="true">Menu</label>
+    <nav class="nav" aria-label="Sections">
+      {{nav}}
+    </nav>
+  </div>
+  <div class="main">
+    <main id="content">
+      {{main}}
+    </main>
+    <footer class="foot">
+      <p>{{site_stamp}}</p>
+    </footer>
+  </div>
+</div>
+</body>
+</html>
