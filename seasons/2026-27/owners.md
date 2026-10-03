@@ -16,7 +16,6 @@ Sara · Eugenia · Yanna
 | ↳ coordination of the volunteers' content | Sarah | Planning and collecting what the volunteers produce |
 | ↳ fitting it into the activities | Isabel · Rosa | Which activities the volunteers can document |
 | **Enraizar no Interior publicity** | Sara (as Descalças comms) | Logos, wording, evidence for reimbursement requests |
-| **Forest school training campaign** (November) | ? | Planeta Alecrim is asked to help with the campaign |
 
 ## Sync rule in one line
 
@@ -24,8 +23,5 @@ Before speaking for **Descalças** → Sara. Before speaking for the **Learning 
 
 ## To confirm
 
-- Is "Sarah" (volunteer content coordination) the same person as Sara (Descalças comms)?
-- That Enraizar publicity sits with Sara.
-- Names of this season's CES volunteers.
-- Who leads the forest school training campaign.
+- Names/Contacts of this season's CES volunteers.
 - Who holds the login for each channel — fill in [the channel list](../../channels.md).
