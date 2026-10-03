@@ -19,7 +19,6 @@ If there are no major disagreements with the [guidelines](../../guidelines.md) a
 | 5 | CES report deadline | Brief says **January 2027**; architecture slides say **February 2027** | Which one is right | Descalças comms | ? |
 | 6 | CES guide (PT/EN) | Already written; volunteers produce the content this year | Link it from [the CES page](../../funded-projects/ces.md) and align that page with it | Descalças comms | ? |
 | 7 | Enraizar no Interior | Poster on site — done. Blog page — done | Logos on the Learning Community website and on event materials | Descalças comms | ? |
-| 8 | Forest school training (November) | Campaign goes ahead; Planeta Alecrim asked to help | Dates, price, sign-up link, campaign lead | ? | ? |
-| 9 | Photo consent | — | Is there a signed consent per family for this school year? Where is the list kept? | Learning Community comms | ? |
+| 8 | Forest school training (November) | Campaign goes ahead by Sara | Dates, price, sign-up link, campaign lead | ? | ? |
+| 9 | Photo consent | — | By default - no identifiable material on visuals | Learning Community comms | ? |
 | 10 | This handbook | Structure and website drafted | It will be public: are first names, Drive links and these next steps fine to show? Who gets edit access? | Comms team | ? |
-| 11 | Spelling | Slides say "Beira Station"; the village is Beirã | Which form we use publicly | Comms team | ? |
