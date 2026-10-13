@@ -51,6 +51,22 @@ FUND_TAGS = {
 
 # ---------------------------------------------------------------- helpers
 
+# The few words the site itself prints, for pages written in Portuguese.
+# A page is Portuguese when its first line is  <!-- lang: pt-PT -->
+WORDS = {
+    "en": {"updated": "Last updated", "by": "by", "history": "See all changes",
+           "edit": "Edit this page", "toc": "On this page"},
+    "pt": {"updated": "Última atualização a", "by": "por", "history": "Ver todas as alterações",
+           "edit": "Editar esta página", "toc": "Nesta página"},
+}
+MONTHS_PT = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
+             "agosto", "setembro", "outubro", "novembro", "dezembro"]
+
+
+def words(lang):
+    return WORDS.get(lang.split("-")[0], WORDS["en"])
+
+
 def esc(text):
     return html.escape(str(text), quote=True)
 
@@ -71,7 +87,9 @@ def root_prefix(page_out):
     return "../" * (len(Path(page_out).parts) - 1)
 
 
-def fmt_date(d):
+def fmt_date(d, lang="en"):
+    if lang.startswith("pt"):
+        return f"{d.day} de {MONTHS_PT[d.month - 1]} de {d.year}"
     return f"{d.day} {MONTHS[d.month - 1]} {d.year}"
 
 
@@ -106,12 +124,13 @@ def stamp_for(src_rel=None):
     return {"name": CFG.get("fallback_name", "the team"), "when": when}
 
 
-def stamp_html(stamp, history_url="", lead="Last updated"):
+def stamp_html(stamp, history_url="", lead=None, lang="en"):
+    w = words(lang)
     d = stamp["when"].date()
-    out = (f'{lead} <time datetime="{d.isoformat()}">{fmt_date(d)}</time> '
-           f'by <b>{esc(stamp["name"])}</b>')
+    out = (f'{lead or w["updated"]} <time datetime="{d.isoformat()}">{fmt_date(d, lang)}</time> '
+           f'{w["by"]} <b>{esc(stamp["name"])}</b>')
     if history_url:
-        out += f' <a class="history" href="{esc(history_url)}">See all changes</a>'
+        out += f' <a class="history" href="{esc(history_url)}">{w["history"]}</a>'
     return out
 
 
@@ -264,15 +283,19 @@ def find_pages():
     pages = []
     for path in sorted(ROOT.rglob("*.md")):
         rel = path.relative_to(ROOT)
-        if rel.parts[0] in SKIP_DIRS or rel.as_posix().lower() == "readme.md":
+        if rel.parts[0] in SKIP_DIRS or rel.as_posix().lower() in ("readme.md", "claude.md"):
             continue
         text = path.read_text(encoding="utf-8")
+        lang = "en"
+        marker = re.match(r"\s*<!--\s*lang:\s*([A-Za-z-]+)\s*-->[ \t]*\n?", text)
+        if marker:
+            lang, text = marker.group(1), text[marker.end():]
         m = re.search(r"^# +(.+?)\s*$", text, flags=re.M)
         title = m.group(1).strip() if m else rel.stem.replace("-", " ").title()
         if m:
             text = text[:m.start()] + text[m.end():]
         pages.append({"src": rel.as_posix(), "out": out_rel(rel.as_posix()),
-                      "title": title, "text": text,
+                      "title": title, "text": text, "lang": lang,
                       "stamp": stamp_for(rel.as_posix())})
     return pages
 
@@ -310,13 +333,13 @@ def short_title(title):
     return re.split(r" — | - ", title)[0]
 
 
-def page_shell(*, title_tag, prefix, nav, main, site_stamp):
+def page_shell(*, title_tag, prefix, nav, main, site_stamp, lang="en"):
     robots = ('<meta name="robots" content="noindex, nofollow">'
               if CFG.get("hide_from_search_engines") else "")
     repo_link = (f' Built from <a href="https://github.com/{esc(REPO)}">the pages on GitHub</a>.'
                  if REPO else "")
     values = {
-        "title_tag": esc(title_tag), "root": prefix, "robots": robots, "nav": nav,
+        "title_tag": esc(title_tag), "lang": esc(lang), "root": prefix, "robots": robots, "nav": nav,
         "main": main, "site_name": esc(CFG["site_name"]),
         "site_tagline": esc(CFG.get("site_tagline", "")),
         "site_stamp": stamp_html(site_stamp, lead="Site last updated") + "." + repo_link,
@@ -327,11 +350,14 @@ def page_shell(*, title_tag, prefix, nav, main, site_stamp):
     return page
 
 
-def notice_html():
-    return f'<p class="notice">{esc(CFG["notice"])}</p>' if CFG.get("notice") else ""
+def notice_html(lang="en"):
+    text = CFG.get("notice_pt") if lang.startswith("pt") and CFG.get("notice_pt") else CFG.get("notice")
+    return f'<p class="notice">{esc(text)}</p>' if text else ""
 
 
 def build_page(page, pages, site_stamp):
+    lang = page["lang"]
+    w = words(lang)
     prefix = root_prefix(page["out"])
     body, toc = render(page["text"], page["src"])
     if REPO:
@@ -343,15 +369,15 @@ def build_page(page, pages, site_stamp):
     toc_block = ""
     if len(toc) >= 3:
         links = "".join(f'<li><a href="#{t["id"]}">{t["name"]}</a></li>' for t in toc)
-        toc_block = (f'<nav class="toc" aria-label="On this page"><details open>'
-                     f"<summary>On this page</summary><ol>{links}</ol></details></nav>")
+        toc_block = (f'<nav class="toc" aria-label="{w["toc"]}"><details open>'
+                     f'<summary>{w["toc"]}</summary><ol>{links}</ol></details></nav>')
     main = f"""
-{notice_html()}
+{notice_html(lang)}
 <header class="page-head">
   <h1>{esc(page["title"])}</h1>
   <div class="meta">
-    <p class="stamp">{stamp_html(page["stamp"], history_url)}</p>
-    <a class="edit" href="{esc(edit_url)}">Edit this page</a>
+    <p class="stamp">{stamp_html(page["stamp"], history_url, lang=lang)}</p>
+    <a class="edit" href="{esc(edit_url)}">{w["edit"]}</a>
   </div>
 </header>
 {toc_block}
@@ -360,7 +386,7 @@ def build_page(page, pages, site_stamp):
 </div>"""
     return page_shell(title_tag=f'{short_title(page["title"])} · {CFG["site_name"]}',
                       prefix=prefix, nav=nav_html(pages, page["src"], prefix),
-                      main=main, site_stamp=site_stamp)
+                      main=main, site_stamp=site_stamp, lang=lang)
 
 
 def calendar_posts(pages):
@@ -500,6 +526,32 @@ def main():
             shutil.copy2(path, dest)
 
     print(f"Built {len(pages) + 1} pages into {OUT.relative_to(ROOT)}/")
+    problems = check_links()
+    for problem in problems:
+        print("WARNING:", problem)
+    if not problems:
+        print("All links between pages work.")
+
+
+def check_links():
+    """List links to pages, files or #sections that do not exist."""
+    problems = []
+    for page in sorted(OUT.rglob("*.html")):
+        if page.name == "404.html":
+            continue
+        text = page.read_text(encoding="utf-8")
+        for href in re.findall(r'(?:href|src)="([^"]+)"', text):
+            if re.match(r"^(https?:|mailto:|tel:|data:)", href):
+                continue
+            path, _, anchor = href.partition("#")
+            target = (page.parent / path).resolve() if path else page
+            where = page.relative_to(OUT).as_posix()
+            if not target.exists():
+                problems.append(f"{where}: link to {href} — that page or file does not exist")
+            elif anchor and target.suffix == ".html":
+                if f'id="{anchor}"' not in target.read_text(encoding="utf-8"):
+                    problems.append(f"{where}: link to {href} — that section does not exist")
+    return problems
 
 
 if __name__ == "__main__":

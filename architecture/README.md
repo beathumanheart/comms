@@ -2,7 +2,9 @@
 
 The model the external comms team agreed on. It names **roles, not people**, so it can be reused when team members rotate. People for the current season: [who to ask this season](../seasons/2026-27/owners.md).
 
-Original slides: [Communication_Architecture_v4.pdf](Communication_Architecture_v4.pdf). This page is the same content as editable text — when the model changes, edit here.
+Slides: [English (PDF)](Communication_Architecture_EN.pdf) · [Português (PDF)](Arquitetura_de_Comunicacao_PT.pdf). This page is the same content as editable text — when the model changes, edit here and in the slides.
+
+Esta página em português: [Arquitetura de comunicação](pt.md).
 
 ## 1. One learning community, three roles
 
@@ -22,7 +24,7 @@ Shared education; separate organisational voices and responsibilities.
 
 | | Learning Community | Descalças | Planeta Alecrim |
 |---|---|---|---|
-| What it is | Comunidade de Aprendizagem: Bosque Escola + Planeta Alecrim | Cooperative | Association — separate legal entity |
+| What it is | Comunidade de Aprendizagem: Bosque Escola + Planeta Alecrim | Cooperative — legal entity | Association — legal entity |
 | Speaks about | Education · families · learning | Terrain · funding · partnerships · projects | Its Beirã Station contribution |
 | Voice | The shared learning story | Institutional | Its own channels and content |
 

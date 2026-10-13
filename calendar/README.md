@@ -2,8 +2,9 @@
 
 One page per month, named `YYYY-MM.md`. One row per planned post.
 
-- [October 2026](2026-10.md)
-- [November 2026](2026-11.md)
+- [October 2026](2026-10.md) — preparation, no posts
+- [November 2026](2026-11.md) — posting starts on Tuesday 10 November
+- [December 2026](2026-12.md)
 
 ## Rhythm (proposal)
 

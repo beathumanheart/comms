@@ -10,10 +10,12 @@
 
   "fallback_name": "the comms team",
   "names": {
-    "github-username": "Name to show instead"
+    "beathumanheart": "Eugenia",
+    "yauheniyaaskolkava": "Eugenia"
   },
 
   "notice": "Draft for team review. Nothing here is final until the team agrees.",
+  "notice_pt": "Rascunho para revisão da equipa. Nada aqui é final até a equipa concordar.",
 
   "nav": [
     { "label": "Home", "page": "" },

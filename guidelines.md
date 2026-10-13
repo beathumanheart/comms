@@ -20,7 +20,7 @@ Every post or message should serve one of these. If it serves none, it probably 
 | **Learning Community** | Education, families, daily life at Quinta das Avelãs and Beirã Station | Learning Community comms |
 | **Descalças** (cooperative) | Terrain, funding, partnerships, funded projects, institutional matters | Descalças comms |
 | **CES volunteers** | Their own volunteering experience | The volunteers, coordinated by Descalças |
-| **Planeta Alecrim** (association) | Its own channels and content — a separate legal entity | Planeta Alecrim |
+| **Planeta Alecrim** (association) | Its own channels and content — a legal entity | Planeta Alecrim |
 
 The educational project is shared; the legal entities stay distinct. Do not speak for an entity you do not own.
 

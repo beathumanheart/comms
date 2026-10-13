@@ -1,0 +1,115 @@
+{
+  "lang": "pt-PT",
+  "output": "architecture/Arquitetura_de_Comunicacao_PT.pdf",
+  "document_title": "Arquitetura de comunicação",
+  "header": ["COMUNICAÇÃO", "ARQUITETURA"],
+  "footer_left": ["APRENDIZAGEM", "NATUREZA", "COMUNIDADE"],
+  "footer_right": "CÍRCULO DE COMUNICAÇÃO",
+  "slides": [
+    {
+      "kind": "venn",
+      "eyebrow": "IDENTIDADE / RELAÇÃO",
+      "title": "Uma comunidade de aprendizagem, três papéis",
+      "sub": "O projeto educativo é partilhado; as entidades jurídicas mantêm-se distintas.",
+      "left": { "name": ["DESCALÇAS"], "kind": "cooperativa" },
+      "centre": { "name": ["COMUNIDADE DE", "APRENDIZAGEM"], "kind": "Bosque Escola + Planeta Alecrim" },
+      "right": { "name": ["PLANETA", "ALECRIM"], "kind": "associação" },
+      "left_label": "TERRENO · FINANCIAMENTO · PARCERIAS",
+      "right_label": "ESTAÇÃO DA BEIRÃ",
+      "caption": "Dois lugares familiares para as famílias: Quinta das Avelãs + Estação da Beirã"
+    },
+    {
+      "kind": "channels",
+      "eyebrow": "CANAIS / IDENTIDADE",
+      "title": "Cada canal tem uma função",
+      "sub": "Educação partilhada; vozes e responsabilidades organizacionais distintas.",
+      "shared": { "title": "SISTEMA DE CONTEÚDOS PARTILHADO (p. ex. Google Drive)", "note": "Recursos · calendário editorial · arquivo" },
+      "boxes": [
+        { "colour": "green", "title": "COMUNIDADE DE APRENDIZAGEM", "sub": "Learning Community", "sub_serif": true,
+          "lines": ["**Bosque Escola + Planeta Alecrim**", "Educação · famílias · aprendizagem", "Quinta das Avelãs + Estação da Beirã"] },
+        { "colour": "blue", "title": "DESCALÇAS", "sub": "Cooperativa",
+          "lines": ["Entidade jurídica", "Terreno · financiamento · parcerias", "Projetos · voz institucional"] },
+        { "colour": "clay", "title": "PLANETA ALECRIM", "sub": "Associação",
+          "lines": ["Entidade jurídica", "Contributo da Estação da Beirã", "Canais e conteúdos próprios"] }
+      ],
+      "note": "Os canais da associação e da cooperativa mantêm responsabilidades próprias."
+    },
+    {
+      "kind": "pillars",
+      "eyebrow": "ESTRATÉGIA EDITORIAL",
+      "title": "Da publicação ao propósito",
+      "sub": "Uma história de aprendizagem partilhada, contada para as pessoas a quem se destina.",
+      "cards": [
+        ["VIDA", "O que acontece aqui?"],
+        ["APRENDIZAGEM", "O que estamos a aprender?"],
+        ["PESSOAS", "Crianças · famílias · educadores"],
+        ["COMUNIDADE", "Território · ecologia · cultura"],
+        ["OPORTUNIDADES", "Participar · visitar · voluntariado"]
+      ],
+      "chain_label": "CADA CAMPANHA COMEÇA COM",
+      "chain": ["PÚBLICO", "OBJETIVO", "MENSAGEM", "AÇÃO"]
+    },
+    {
+      "kind": "steps",
+      "eyebrow": "RESPONSABILIDADES / PROCESSO",
+      "title": "Um caminho claro até à publicação",
+      "sub": "Um percurso contínuo, com um responsável identificado em cada passagem.",
+      "steps": [
+        ["ATIVIDADE", "Escola · projeto · evento"],
+        ["RECOLHA", "Fotografias · factos · contexto"],
+        ["REDIGIR · VERIFICAR · APROVAR", "História · consentimento · rigor"],
+        ["PUBLICAR + ARQUIVAR", "Canal · registo · evidência"]
+      ],
+      "note_label": "EXCEÇÃO",
+      "note": "Pequenas iniciativas locais podem manter-se informais e fora dos canais principais."
+    },
+    {
+      "kind": "funded",
+      "eyebrow": "PROJETOS FINANCIADOS",
+      "title": "A visibilidade é uma tarefa do projeto",
+      "sub": "A Descalças verifica os requisitos do projeto e guarda as evidências.",
+      "band_title": "DESCALÇAS",
+      "band_items": ["CES", "ENRAIZAR / ALENTEJO 2030", "OUTROS PROJETOS"],
+      "steps": [
+        ["VERIFICAR", "O acordo em vigor"],
+        ["PREPARAR", "Texto · logótipos"],
+        ["PUBLICAR", "Canais aprovados"],
+        ["COMPROVAR", "Links · capturas de ecrã"],
+        ["REPORTAR", "Evidências prontas"]
+      ],
+      "note_label": "REGRA",
+      "note": "Confirmar cada obrigação de visibilidade no acordo do projeto em vigor."
+    },
+    {
+      "kind": "timeline",
+      "eyebrow": "CES / EVIDÊNCIA DE ROTINA",
+      "title": "Tornar a evidência uma rotina",
+      "sub": "Construir o registo de publicações à medida que o trabalho acontece, e não no prazo do relatório.",
+      "points": [
+        ["AGORA", "Rever os canais"],
+        ["À CHEGADA", "Informar os voluntários"],
+        ["EM CADA ATIVIDADE", "Recolher factos"],
+        ["TODOS OS MESES", "Publicar"],
+        ["SEMPRE", "Arquivar as provas"],
+        ["FEV 2027", "Relatório pronto"]
+      ],
+      "note_label": "PASSAGEM",
+      "note": "Os voluntários fornecem histórias e factos → a comunicação publica → a Descalças verifica as evidências"
+    },
+    {
+      "kind": "list",
+      "eyebrow": "DECISÕES / PRÓXIMOS PASSOS",
+      "title": "Pôr o modelo em prática",
+      "sub": "Transformar a estrutura acordada em responsabilidades atribuídas e decisões registadas.",
+      "rows": [
+        ["CONFIRMAR", "Relações jurídicas e liderança"],
+        ["ATRIBUIR", "Um responsável e um propósito por canal"],
+        ["DEFINIR", "Responsabilidade pelos conteúdos e aprovação"],
+        ["VERIFICAR", "Requisitos dos acordos CES / Enraizar"],
+        ["REGISTAR", "Decisões num espaço partilhado e acessível"]
+      ],
+      "out_label": "RESULTADO DA PRIMEIRA REUNIÃO",
+      "out": "Sabemos  /  A verificar  /  Responsável  /  Data"
+    }
+  ]
+}

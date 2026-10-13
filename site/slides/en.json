@@ -1,0 +1,115 @@
+{
+  "lang": "en",
+  "output": "architecture/Communication_Architecture_EN.pdf",
+  "document_title": "Communication architecture",
+  "header": ["COMMUNICATION", "ARCHITECTURE"],
+  "footer_left": ["LEARNING", "NATURE", "COMMUNITY"],
+  "footer_right": "COMMUNICATION CIRCLE",
+  "slides": [
+    {
+      "kind": "venn",
+      "eyebrow": "IDENTITY / RELATIONSHIP",
+      "title": "One learning community, three roles",
+      "sub": "The educational project is shared; the legal entities remain distinct.",
+      "left": { "name": ["DESCALÇAS"], "kind": "cooperative" },
+      "centre": { "name": ["LEARNING", "COMMUNITY"], "kind": "Bosque Escola + Planeta Alecrim" },
+      "right": { "name": ["PLANETA", "ALECRIM"], "kind": "association" },
+      "left_label": "TERRAIN · FUNDING · PARTNERSHIPS",
+      "right_label": "BEIRÃ STATION",
+      "caption": "Two familiar places for families: Quinta das Avelãs + Beirã Station"
+    },
+    {
+      "kind": "channels",
+      "eyebrow": "CHANNELS / IDENTITY",
+      "title": "Every channel has a job",
+      "sub": "Shared education; separate organisational voices and responsibilities.",
+      "shared": { "title": "SHARED CONTENT SYSTEM (e.g. Google Drive)", "note": "Assets · editorial calendar · archive" },
+      "boxes": [
+        { "colour": "green", "title": "LEARNING COMMUNITY", "sub": "Comunidade de Aprendizagem", "sub_serif": true,
+          "lines": ["**Bosque Escola + Planeta Alecrim**", "Education · families · learning", "Quinta das Avelãs + Beirã Station"] },
+        { "colour": "blue", "title": "DESCALÇAS", "sub": "Cooperative",
+          "lines": ["Legal entity", "Terrain · funding · partnerships", "Projects · institutional voice"] },
+        { "colour": "clay", "title": "PLANETA ALECRIM", "sub": "Association",
+          "lines": ["Legal entity", "Beirã Station contribution", "Own channels and content"] }
+      ],
+      "note": "Association and cooperative channels remain separately accountable."
+    },
+    {
+      "kind": "pillars",
+      "eyebrow": "EDITORIAL STRATEGY",
+      "title": "From posting to purpose",
+      "sub": "A shared learning story, told for the people it is meant to reach.",
+      "cards": [
+        ["LIFE", "What happens here?"],
+        ["LEARNING", "What are we learning?"],
+        ["PEOPLE", "Children · families · educators"],
+        ["COMMUNITY", "Territory · ecology · culture"],
+        ["OPPORTUNITIES", "Join · visit · volunteer"]
+      ],
+      "chain_label": "EVERY CAMPAIGN STARTS WITH",
+      "chain": ["AUDIENCE", "OBJECTIVE", "MESSAGE", "ACTION"]
+    },
+    {
+      "kind": "steps",
+      "eyebrow": "RESPONSIBILITIES / WORKFLOW",
+      "title": "A clear route to publish",
+      "sub": "One continuous path, with one named owner at each handoff.",
+      "steps": [
+        ["ACTIVITY", "School · project · event"],
+        ["CAPTURE", "Photos · facts · context"],
+        ["SHAPE · CHECK · APPROVE", "Story · consent · accuracy"],
+        ["PUBLISH + ARCHIVE", "Channel · record · evidence"]
+      ],
+      "note_label": "EXCEPTION",
+      "note": "Small local initiatives can remain informal and outside the main channels."
+    },
+    {
+      "kind": "funded",
+      "eyebrow": "FUNDED PROJECTS",
+      "title": "Visibility is a project task",
+      "sub": "Descalças checks project requirements and keeps the evidence.",
+      "band_title": "DESCALÇAS",
+      "band_items": ["CES", "ENRAIZAR / ALENTEJO 2030", "OTHER PROJECTS"],
+      "steps": [
+        ["VERIFY", "Actual agreement"],
+        ["PREPARE", "Wording · logos"],
+        ["PUBLISH", "Approved channels"],
+        ["PROVE", "Links · screenshots"],
+        ["REPORT", "Evidence ready"]
+      ],
+      "note_label": "RULE",
+      "note": "Confirm every visibility obligation against the actual project agreement."
+    },
+    {
+      "kind": "timeline",
+      "eyebrow": "CES / ROUTINE EVIDENCE",
+      "title": "Make evidence routine",
+      "sub": "Build a publication record as work happens, rather than at the reporting deadline.",
+      "points": [
+        ["NOW", "Audit channels"],
+        ["ON ARRIVAL", "Brief volunteers"],
+        ["EACH ACTIVITY", "Capture facts"],
+        ["MONTHLY", "Publish"],
+        ["ONGOING", "Archive proof"],
+        ["FEB 2027", "Report ready"]
+      ],
+      "note_label": "HANDOFF",
+      "note": "Volunteers supply stories and facts → communications publishes → Descalças checks evidence"
+    },
+    {
+      "kind": "list",
+      "eyebrow": "DECISIONS / NEXT STEPS",
+      "title": "Make the model operational",
+      "sub": "Turn the agreed structure into named responsibilities and recorded decisions.",
+      "rows": [
+        ["CONFIRM", "Legal relationships and leadership"],
+        ["ASSIGN", "One owner and purpose per channel"],
+        ["DEFINE", "Content ownership and sign-off"],
+        ["VERIFY", "CES / Enraizar agreement requirements"],
+        ["RECORD", "Decisions in an accessible shared space"]
+      ],
+      "out_label": "FIRST MEETING OUTPUT",
+      "out": "Known  /  To verify  /  Owner  /  Date"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Learning Community — external communications
+# Learning Community — external communications.
 
 The handbook of the external comms team for the **Learning Community** (Comunidade de Aprendizagem: Bosque Escola Avelãs + Planeta Alecrim) and its links to **Descalças**.
 
@@ -17,6 +17,7 @@ calendar/            one page per month of planned posts
 funded-projects/     CES and Enraizar: what we must show, and the proof
 how-to/              short step-by-step instructions
 site/                the website machinery — not needed for editing pages
+CLAUDE.md            instructions for Claude Code when it works in this repository
 ```
 
 Two principles:

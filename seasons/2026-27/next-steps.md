@@ -6,7 +6,7 @@ If there are no major disagreements with the [guidelines](../../guidelines.md) a
 
 **1. Revise the current channels** — starting with the Learning Community website, together with what Descalças requires from our comms (funding acknowledgements). First findings are in [the channel list](../../channels.md#what-the-first-look-at-the-channels-showed-3-oct-2026).
 
-**2. Run a content calendar for the next two months** — [October](../../calendar/2026-10.md) and [November](../../calendar/2026-11.md). Some teams will be asked for material, by the proximity principle: whoever is closest to the activity supplies it.
+**2. Run a content calendar for two months** — [November](../../calendar/2026-11.md) and [December](../../calendar/2026-12.md), starting on 10 November. October is for preparation. Some teams will be asked for material, by the proximity principle: whoever is closest to the activity supplies it.
 
 ## Known / To verify / Owner / Date
 

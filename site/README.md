@@ -9,6 +9,7 @@ You do not need anything in this folder to edit the handbook. Pages are the `.md
 | `template.html` | The frame around every page (menu, footer) |
 | `assets/site.css` | Colours, type, layout |
 | `assets/site.js` | Small conveniences: next posts on the home page, Copy buttons |
+| `slides/` | Source of the architecture PDFs: `en.json`, `pt.json`, `make_slides.py` |
 | `assets/fonts/` | Atkinson Hyperlegible Next and Instrument Serif, served from the site itself (SIL Open Font License) |
 
 ## Preview on your own computer
@@ -44,3 +45,7 @@ Planeta Alecrim | association | Beirã Station
 ## Tables
 
 Cells that contain exactly `idea`, `material in`, `ready`, `published`, `to do` or `done` are drawn as status labels. `CES` and `ENR` are drawn as funding tags. A lone `?` is shown as "to decide".
+
+## Portuguese pages
+
+A page whose first line is `<!-- lang: pt-PT -->` is marked as Portuguese: the date line, the edit button and the draft notice (`notice_pt` in `config.json`) are printed in Portuguese.
