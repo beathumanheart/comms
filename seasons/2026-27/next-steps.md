@@ -22,3 +22,4 @@ If there are no major disagreements with the [guidelines](../../guidelines.md) a
 | 8 | Forest school training (November) | Campaign goes ahead by Sara | Dates, price, sign-up link, campaign lead | ? | ? |
 | 9 | Photo consent | — | By default - no identifiable material on visuals | Learning Community comms | ? |
 | 10 | This handbook | Structure and website drafted | It will be public: are first names, Drive links and these next steps fine to show? Who gets edit access? | Comms team | ? |
+| 11 | Link people and meeting | Five circles are asked to name one link person each, by the end of October. Meeting on Thu 12 Nov, 15:00–16:30 | Names from each circle; place of the meeting | Comms team | 12 Nov |

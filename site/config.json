@@ -26,6 +26,8 @@
     { "label": "Funded projects", "page": "funded-projects/README.md" },
     { "label": "How-to", "page": "how-to/README.md" },
     { "label": "How it fits together", "page": "architecture/README.md" },
+    { "label": "Terms · Termos", "page": "glossary.md" },
+    { "label": "Common language · Linguagem comum", "page": "common-language.md" },
     { "label": "Next steps", "page": "seasons/{season}/next-steps.md" }
   ],
 

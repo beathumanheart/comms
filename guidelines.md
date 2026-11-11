@@ -6,10 +6,11 @@ One page. If a rule is not here, use common sense and ask the owner ([who is tha
 
 In order of priority:
 
-1. **Connect** with similar projects.
+1. **Find funding and volunteers.**
 2. **Promote events.**
-3. **Find extra volunteers and extra funding.**
-4. *Maybe:* attract new families.
+3. **Create awareness** and connect with similar projects.
+
+Communication has effects we can't control: it may bring new families and more support, or not. At this stage we can't measure results, nor a year from now, so we share honestly what we live, without promising outcomes.
 
 Every post or message should serve one of these. If it serves none, it probably does not need to go out.
 

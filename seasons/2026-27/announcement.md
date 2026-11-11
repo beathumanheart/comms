@@ -19,10 +19,9 @@ One page of rules - https://beathumanheart.github.io/comms/guidelines.html,
 plus whom to talk to in 2026/27 - https://beathumanheart.github.io/comms/seasons/2026-27/owners.html
 
 **Why we communicate externally**
-1. To connect with similar projects
+1. To find funding and volunteers
 2. To promote events
-3. To find extra volunteers and extra funding
-4. Maybe, to attract new families
+3. To create awareness and connect with similar projects
 
 **Whom to ask this season**
 - Descalças → Sara
@@ -31,6 +30,19 @@ plus whom to talk to in 2026/27 - https://beathumanheart.github.io/comms/seasons
 
 **One request**
 If you are about to communicate with the outside world on behalf of Descalças or the Learning Community — press, partners, funders, a call for volunteers or families, anything about money — please check with the owner first. The short list of what counts is in the guidelines.
+
+**One person per circle**
+We propose that each circle with external communication needs names one person to be its link with the external comms team:
+- 2. Cuidado (CCuid)
+- 4.1 Voluntariado (CVol), including the "corujas"
+- 5. Manutenção (CM)
+- 6. Atividades (CA)
+- 7. Cantina Social (CCS)
+
+Please send us the name by the end of October.
+
+**Meeting: Thursday 12 November, 15:00–16:30**
+We will meet with the people named by each circle to share our needs, agree how we work together, and decide how to make the best use of these pages. Place to be confirmed.
 
 **What happens next, unless there are major disagreements**
 1. We revise our current channels, starting with the Learning Community website, including what our funders require us to show.
@@ -52,10 +64,9 @@ Uma página de regras (em inglês) - https://beathumanheart.github.io/comms/guid
 e a quem se dirigir em 2026/27 - https://beathumanheart.github.io/comms/seasons/2026-27/owners.html
 
 **Porque comunicamos para fora**
-1. Para nos ligarmos a projetos semelhantes
+1. Para encontrar financiamento e voluntários
 2. Para divulgar eventos
-3. Para encontrar mais voluntários e mais financiamento
-4. Talvez, para atrair novas famílias
+3. Para dar a conhecer o projeto e nos ligarmos a projetos semelhantes
 
 **A quem perguntar nesta época**
 - Descalças → Sara
@@ -64,6 +75,19 @@ e a quem se dirigir em 2026/27 - https://beathumanheart.github.io/comms/seasons/
 
 **Um pedido**
 Se estiverem prestes a comunicar com o exterior em nome da Descalças ou da Comunidade de Aprendizagem — imprensa, parceiros, financiadores, um apelo a voluntários ou a famílias, qualquer assunto que envolva dinheiro — falem primeiro com a pessoa responsável. A lista curta do que conta está nas regras.
+
+**Uma pessoa por círculo**
+Propomos que cada círculo com necessidades de comunicação externa indique uma pessoa para fazer a ligação com a equipa de comunicação externa:
+- 2. Cuidado (CCuid)
+- 4.1 Voluntariado (CVol), incluindo as "corujas"
+- 5. Manutenção (CM)
+- 6. Atividades (CA)
+- 7. Cantina Social (CCS)
+
+Enviem-nos o nome até ao fim de outubro.
+
+**Reunião: quinta-feira, 12 de novembro, das 15h00 às 16h30**
+Vamos reunir-nos com as pessoas indicadas por cada círculo para partilhar as nossas necessidades, combinar como trabalhamos em conjunto e decidir como tirar o melhor partido destas páginas. Local a confirmar.
 
 **O que se segue, salvo grandes desacordos**
 1. Revemos os nossos canais atuais, a começar pelo site da Comunidade de Aprendizagem, incluindo o que os nossos financiadores nos pedem para mostrar.
