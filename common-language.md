@@ -1,8 +1,5 @@
 # Linguagem comum · Common language
 
-> **Rascunho — proposta inicial** para a reunião de 12 de novembro. Nada aqui é final até ser acordado.
-> **Draft — initial proposal** for the meeting on 12 November. Nothing here is final until it is agreed.
-
 Uma forma partilhada de dizer quem somos, para todos os círculos usarem em candidaturas a financiamento, publicações, emails e conversas com parceiros. Termos mais curtos: [termos](glossary.md).
 
 One shared way of saying who we are, for every circle to use in funding applications, posts, emails and conversations with partners. Shorter terms: [terminology](glossary.md).
@@ -23,15 +20,15 @@ One shared way of saying who we are, for every circle to use in funding applicat
 
 ## Definições · Definitions
 
-### O projeto e as escolas · The project and the schools
+### Os projetos · The projects
 
 **Comunidade de Aprendizagem** · *Learning Community*
 O projeto educativo partilhado, criado por famílias: o Bosque Escola Avelãs e o Planeta Alecrim juntos. É um projeto, não uma entidade jurídica: quem assina, recebe financiamento e responde legalmente são a Descalças e a Associação Planeta Alecrim.
 *The shared educational project, created by families: Bosque Escola Avelãs and Planeta Alecrim together. It is a project, not a legal entity: Descalças and the Planeta Alecrim association sign, receive funding and are legally accountable.*
 
-**Bosque Escola Avelãs (BEA)** · *Bosque Escola Avelãs (forest school)*
-A escola da floresta na Quinta das Avelãs. A sua entidade jurídica é a Descalças.
-*The forest school at Quinta das Avelãs. Its legal entity is Descalças.*
+**Bosque Escola Avelãs (BEA)**
+O projeto educativo na Quinta das Avelãs. A sua entidade jurídica é a Descalças.
+*The educational project at Quinta das Avelãs. Its legal entity is Descalças.*
 
 **Planeta Alecrim** (Comunidade de Aprendizagem Planeta Alecrim)
 A comunidade de aprendizagem na Estação da Beirã. A sua entidade jurídica é a Associação Planeta Alecrim, que tem os seus próprios canais.
@@ -99,15 +96,8 @@ Operação da Descalças cofinanciada pela União Europeia através do Alentejo 
 
 | Dizemos · We say | Em vez de · Instead of |
 |---|---|
-| «Comunidade de Aprendizagem» quando falamos das duas escolas juntas · "Learning Community" for both schools together | «a escola» para tudo · "the school" for everything |
-| O nome completo primeiro, depois a sigla: Bosque Escola Avelãs (BEA) · Full name first, then the abbreviation | Só «BEA» · Only "BEA" |
-| A Descalças representa as finanças e as parcerias · Descalças represents finances and partnerships | Pedidos de dinheiro ou propostas de parceria feitos sem a Descalças · Money requests or partnership proposals made without Descalças |
+| «Comunidade de Aprendizagem» quando falamos dos dois projetos juntos, o Bosque Escola Avelãs e o Planeta Alecrim · "Learning Community" for both projects together, Bosque Escola Avelãs and Planeta Alecrim | «a escola» para tudo · "the school" for everything |
+| A Descalças representa as finanças e as parcerias · Descalças represents finances and partnerships | Pedir dinheiro ou propor parcerias sem falar antes com a Descalças · Asking for money or proposing a partnership without talking to Descalças first |
 | O que vivemos, com honestidade · What we live, honestly | Promessas de resultados · Promising outcomes |
 | Mãos, costas, atividades, paisagens · Hands, backs, activities, landscapes | Rostos de crianças · Children's faces |
-| Falar com a pessoa responsável antes de falar sobre o estatuto da escola · Check with the owner before speaking about the school's status | Afirmações sobre o estatuto legal ou educativo · Statements on legal or educational status |
-
-## Por confirmar · To confirm
-
-- «Na zona de Marvão» descreve bem os dois lugares? · Does "the Marvão area" describe both places well?
-- A frase sobre o Enraizar no Interior: a Descalças confirma a formulação exigida. · The Enraizar sentence: Descalças confirms the required wording.
-- A lista de círculos. · The list of circles.
+| Falar com a pessoa responsável antes de falar sobre o estatuto do projeto · Check with the owner before speaking about the project's status | Afirmações sobre o estatuto legal ou educativo · Statements on legal or educational status |
