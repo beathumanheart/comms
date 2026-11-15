@@ -40,8 +40,8 @@ A comunidade de aprendizagem na Estação da Beirã. A sua entidade jurídica é
 ### As entidades jurídicas · The legal entities
 
 **Descalças**
-Cooperativa e entidade jurídica, ligada ao Bosque Escola Avelãs. Responde pelo terreno, pelo financiamento, pelas parcerias e pelos projetos financiados (CES, Enraizar no Interior). É a voz institucional.
-*Cooperative and legal entity, connected to Bosque Escola Avelãs. Responsible for the land, funding, partnerships and funded projects (ESC, Enraizar no Interior). It is the institutional voice.*
+Cooperativa e entidade jurídica, ligada ao Bosque Escola Avelãs. Representa as finanças e as parcerias, e responde pelo terreno e pelos projetos financiados (CES, Enraizar no Interior). É a voz institucional.
+*Cooperative and legal entity, connected to Bosque Escola Avelãs. Represents finances and partnerships, and is responsible for the land and the funded projects (ESC, Enraizar no Interior). It is the institutional voice.*
 
 **Associação Planeta Alecrim** · *Planeta Alecrim association*
 Associação e entidade jurídica, ligada ao Planeta Alecrim. Responde pelos seus próprios canais e conteúdos.
@@ -60,12 +60,12 @@ O lugar do Planeta Alecrim, na aldeia da Beirã (Marvão).
 ### As pessoas · The people
 
 **Famílias** · *Families*
-Quem criou e sustenta a comunidade.
-*The people who created and sustain the community.*
+Os pais e as mães das crianças. Pagam uma mensalidade pela inscrição dos filhos na Comunidade de Aprendizagem e, além disso, trabalham como voluntários e assumem as tarefas necessárias para sustentar a comunidade, organizados em círculos.
+*The children's parents. They pay a monthly fee for their children's enrolment in the Learning Community and, on top of that, work as volunteers and take on the tasks needed to sustain the community, organised in circles.*
 
 **Acompanhantes** · *Acompanhantes (learning companions)*
-Os adultos que acompanham as crianças no dia a dia.
-*The adults who accompany the children day to day.*
+Os profissionais remunerados que acompanham as crianças no dia a dia.
+*The paid staff who accompany the children day to day.*
 
 **Voluntários do CES** · *ESC volunteers*
 Jovens voluntários do Corpo Europeu de Solidariedade que vivem e trabalham connosco durante um período.
@@ -82,8 +82,8 @@ A pessoa de cada círculo que faz a ponte com a comunicação externa.
 *The person in each circle who links with external communication.*
 
 **Comunicação externa** · *External communication*
-Tudo o que sai para fora da comunidade: redes sociais, site, imprensa, instituições, parceiros, financiadores. Três propósitos, por esta ordem: encontrar financiamento e voluntários; divulgar eventos; dar a conhecer o projeto e ligar-nos a projetos semelhantes.
-*Everything that goes outside the community: social media, website, press, institutions, partners, funders. Three purposes, in this order: find funding and volunteers; promote events; create awareness and connect with similar projects.*
+Tudo o que sai para fora da comunidade: redes sociais, site, imprensa, instituições, parceiros, financiadores. Quatro propósitos, por esta ordem: dar visibilidade a quem nos apoia, como as regras exigem (CES, Enraizar no Interior); encontrar financiamento e voluntários; divulgar eventos; ligar-nos a projetos semelhantes.
+*Everything that goes outside the community: social media, website, press, institutions, partners, funders. Four purposes, in this order: show our funders' support, as the rules require (ESC, Enraizar no Interior); find funding and volunteers; promote events; connect with similar projects.*
 
 ### Projetos financiados · Funded projects
 
@@ -101,7 +101,7 @@ Operação da Descalças cofinanciada pela União Europeia através do Alentejo 
 |---|---|
 | «Comunidade de Aprendizagem» quando falamos das duas escolas juntas · "Learning Community" for both schools together | «a escola» para tudo · "the school" for everything |
 | O nome completo primeiro, depois a sigla: Bosque Escola Avelãs (BEA) · Full name first, then the abbreviation | Só «BEA» · Only "BEA" |
-| A Descalças fala pelo financiamento e pelas parcerias · Descalças speaks for funding and partnerships | Pedidos de dinheiro sem passar pela Descalças · Money requests outside Descalças |
+| A Descalças representa as finanças e as parcerias · Descalças represents finances and partnerships | Pedidos de dinheiro ou propostas de parceria feitos sem a Descalças · Money requests or partnership proposals made without Descalças |
 | O que vivemos, com honestidade · What we live, honestly | Promessas de resultados · Promising outcomes |
 | Mãos, costas, atividades, paisagens · Hands, backs, activities, landscapes | Rostos de crianças · Children's faces |
 | Falar com a pessoa responsável antes de falar sobre o estatuto da escola · Check with the owner before speaking about the school's status | Afirmações sobre o estatuto legal ou educativo · Statements on legal or educational status |
@@ -110,4 +110,4 @@ Operação da Descalças cofinanciada pela União Europeia através do Alentejo 
 
 - «Na zona de Marvão» descreve bem os dois lugares? · Does "the Marvão area" describe both places well?
 - A frase sobre o Enraizar no Interior: a Descalças confirma a formulação exigida. · The Enraizar sentence: Descalças confirms the required wording.
-- A definição de «acompanhantes» e a lista de círculos. · The definition of "acompanhantes" and the list of circles.
+- A lista de círculos. · The list of circles.
